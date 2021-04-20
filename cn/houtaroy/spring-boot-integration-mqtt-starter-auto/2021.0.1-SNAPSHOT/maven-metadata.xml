@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.houtaroy</groupId>
+  <artifactId>spring-boot-integration-mqtt-starter-auto</artifactId>
+  <version>2021.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210420.082151</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210420082151</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2021.0.1-20210420.082151-1</value>
+        <updated>20210420082151</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2021.0.1-20210420.082151-1</value>
+        <updated>20210420082151</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
