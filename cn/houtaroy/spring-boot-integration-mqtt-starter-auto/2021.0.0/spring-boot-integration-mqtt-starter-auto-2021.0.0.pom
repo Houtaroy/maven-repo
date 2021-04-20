@@ -13,6 +13,8 @@
   <name>spring-boot-integration-mqtt-starter-auto</name>
   <description>MQTT Quick Starter</description>
   <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>1.8</java.version>
     <jackson.version>2.8.1</jackson.version>
     <integration.version>5.3.2.RELEASE</integration.version>
