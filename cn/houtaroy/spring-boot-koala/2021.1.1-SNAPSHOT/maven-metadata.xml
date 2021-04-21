@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>cn.houtaroy</groupId>
+  <artifactId>spring-boot-koala</artifactId>
+  <version>2021.1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210421.013228</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20210421013228</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2021.1.1-20210421.013228-1</value>
+        <updated>20210421013228</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
