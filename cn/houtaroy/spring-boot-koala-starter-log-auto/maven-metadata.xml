@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>cn.houtaroy</groupId>
-  <artifactId>spring-boot-koala</artifactId>
+  <artifactId>spring-boot-koala-starter-log-auto</artifactId>
   <versioning>
     <versions>
       <version>2021.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210426102107</lastUpdated>
+    <lastUpdated>20210426083021</lastUpdated>
   </versioning>
 </metadata>
